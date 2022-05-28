@@ -1,9 +1,9 @@
 The Hive
 ========
 
-Implementation of the board game "Hive" from gen42 [http://www.gen42.com/hive].
+Implementation of the board game "Hive".
 The aim of this project is to have a standard playground sandbox to develop
-and test A.I. to play the Hive game.
+and test A.I. to play the Hive game.this project for student version.
 
 Board:
 -----
